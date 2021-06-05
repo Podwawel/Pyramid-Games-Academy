@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe9bfd5a474097c408488bb41584c0bc, type: 3}
+  m_Name: Gameplay Data Container
+  m_EditorClassIdentifier: 
+  DoorVariants:
+  - {fileID: 3466277008025994998, guid: 6f50156c101d05041a14bbf7e9805d09, type: 3}
+  - {fileID: 427612890974740732, guid: d475d9cd17c09fa459884206a00ebfcd, type: 3}
+  - {fileID: 6718910341353196215, guid: de0e3d3200f560043ae796d76aafd0ed, type: 3}
+  - {fileID: 958124475758522417, guid: 337df87f63d13994b80b0606b0d45d9e, type: 3}
+  Chest: {fileID: 3192411901653624464, guid: c081045f059345445affdf9ec1b71f6e, type: 3}
+  Key: {fileID: 8897302984012234065, guid: 033fc91b15bbc66419e08a32eb30127d, type: 3}
+  Player: {fileID: 4693270897669894656, guid: 4c81c816669d73c4589dcb1f4a9e3878, type: 3}
+  GameStarted: 0
