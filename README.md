@@ -1,5 +1,7 @@
 # Pyramid-Games-Academy-Task-Pawel-Przybyla
- Pyramid Games Acadaemy task
+ Pyramid Games Academy task
+ 
+PLEASE SET SCREEN RESOLUTION FROM FREE ASPECT TO 16:9/16:10/4K IN GAME VIEW
  
 LIST OF ASSETS
  
