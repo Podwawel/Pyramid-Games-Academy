@@ -50,7 +50,7 @@ Key Canvas
 
 Scenes:
 
-SampleScene
+Game Scene
 
 Scriptable Objects:
 
