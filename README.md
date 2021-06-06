@@ -10,6 +10,7 @@ SFX:
 -ChestOpen and DoorOpen – those are one sound downloaded from Mixkit.co on Royalty Free license 
 
 -Key Take – Royalty Free from Mixkit.co
+
 -Popup - Royalty Free from Mixkit.co
 
 Music:
@@ -23,30 +24,47 @@ Fonts:
 Materials, all created and designed by myself:
 
 -Blue wood Material
+
 -Gold Material, 
+
 -MenuWall Material
+
 -Metal Material
+
 -Stone Material
+
 -Wall Material
 
 Models, all created and designed by myself:
 
 -Chest
+
 -Doors
+
 -Key
 
 Prefabs:
 
 -Chest
+
 -Chest with Key
+
 -Key
+
 -Doors -90
+
 -Doors -180
+
 -Doors 0
+
 -Doors 90
+
 -Chest Canvas
+
 -Door With Key Canvas
+
 -Door Without Key Canvas
+
 -Key Canvas
 
 Scenes:
@@ -56,33 +74,53 @@ Scenes:
 Scriptable Objects:
 
 -Game Over
+
 -Game Setup
+
 -Gameplay Data Container
+
 -Input Data
 
 Scripts:
 
 -InteractableObject
+
 -Chest
+
 -Door
+
 -Key
+
 -AudioManager
+
 -GameManager
+
 -InputDirector
+
 -PlayerManager
+
 -SpawnManager
+
 -DataContainer
+
 -GameSetup
+
 -GameOver
+
 -InputData
 
 Textures:
 
 -KeyInventorySprite
+
 -KeyQuestionMarkSprite
+
 -KeySprite
+
 -MenuButton
+
 -PopupButton
+
 -PopupSprite
 
 Animations:
